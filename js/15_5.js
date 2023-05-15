@@ -11,6 +11,7 @@ function ejemplo(params){
  console.dir(inp);
  console.log(p.value);
  console.log(num);
- 
+ let r = num + "45";
+ console.log(r);
 
 }
