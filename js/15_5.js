@@ -4,7 +4,7 @@ function ejemplo(params){
  let valor = inp.value;
  let divImg = document.querySelector("#img");
  p.innerText=valor;
- divImg.innerHTML= '<img src="../img/michilogo.jpg" alt= />';
+ divImg.innerHTML= '<img src="../img/michilogo.jpg" alt="error"/>';
 
  console.log(valor);
  console.dir(inp);
