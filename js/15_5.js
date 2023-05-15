@@ -1,3 +1,4 @@
+let num=535;
 function ejemplo(params){
  let inp = document.querySelector("#entrada");
  let p = document.querySelector("#salida");
@@ -9,6 +10,7 @@ function ejemplo(params){
  console.log(valor);
  console.dir(inp);
  console.log(p.value);
+ console.log(num);
  
 
 }
